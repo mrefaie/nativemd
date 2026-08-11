@@ -6,4 +6,7 @@ Welcome to **NativeMD**! Edit your markdown content on the left and see live syn
 > Changes are version-controlled with native Git commits on your GitHub repository.
 
 - [x] Create document
-- [ ] Sync with team
+- [x] Sync with team
+
+
+ABC
