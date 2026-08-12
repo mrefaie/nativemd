@@ -1,9 +1,10 @@
 ---
-title: Visit notification deep-link never fires
 tags:
   - mobile
   - rep-app
 description: Tapping the push notification does nothing.
+public: true
+publicExpires: '2026-08-19T17:04:19.332Z'
 ---
 # Visit notification deep-link never fires
 
