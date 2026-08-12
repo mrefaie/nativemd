@@ -1,5 +1,4 @@
 ---
-author: someone-else
 title: Verify Doc
 tags:
   - alpha
@@ -8,4 +7,4 @@ description: a description
 ---
 # Different Heading
 
-Body text.
+Body text edited.
