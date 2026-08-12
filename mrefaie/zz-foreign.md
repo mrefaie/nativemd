@@ -1,8 +1,3 @@
----
-author: someone-else
-reviewers:
-  - alice
----
 # Doc
 
-Body.
+Body edited.
