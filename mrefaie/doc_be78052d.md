@@ -10,7 +10,7 @@ description: >-
   Tapping the "لديك ملاحظه جديده" push notification does nothing — no navigation
   to `سجل الزيارات`, no list refresh.
 public: true
-publicExpires: '2027-08-12T16:57:29.530Z'
+publicExpires: '2026-08-19T17:09:12.931Z'
 ---
 ## Summary
 
