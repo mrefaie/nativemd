@@ -7,9 +7,13 @@
 * **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
   i18n with plurals support and easy syntax.
 
-You will like those projects!
+`You will like those projects!`
 
 ***
+
+![1.00]()
+
+<br />
 
 # h1 Heading 8-)
 
