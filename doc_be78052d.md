@@ -14,9 +14,9 @@ publicExpires: '2026-08-19T17:23:04.269Z'
 ---
 ## Summary
 
-![1.00](blob:http://localhost:3000/9f7ef1de-f86a-4246-b1b2-f9d4884fa814)
+![1.00](/api/v1/assets/assets/mta79itz-hmgly4-WhatsApp-Image-2026-08-25-at-09.45.09.jpg)
 
-Tapping the "لديك ملاحظه جديده" push notification does nothing — no navigation to `سجل الزيارات`, no list refresh.
+***Tapping the "لديك ملاحظه جديده" push notification does nothing — no navigation to سجل الزيارات, no list refresh.***
 
 The backend sends `type` as `Visit_<id>` (capital V):
 
