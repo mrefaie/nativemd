@@ -12,4 +12,4 @@ description: >-
 public: true
 publicExpires: '2026-08-19T17:23:04.269Z'
 ---
-test csrf ok
+test csrf no origin
