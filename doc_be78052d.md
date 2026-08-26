@@ -12,4 +12,4 @@ description: >-
 public: true
 publicExpires: '2026-08-19T17:23:04.269Z'
 ---
-test csrf no origin
+test api key csrf bypass
